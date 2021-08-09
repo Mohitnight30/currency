@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">currency</string>
+    <string name="currency">Currency</string>
+    <string name="euro">Euro :</string>
+    <string name="enter_the_amount">Enter the amount</string>
+    <string name="convert">Convert</string>
+    <string name="refers">Refresh</string>
+</resources>
